@@ -136,12 +136,7 @@ Aplicación hospitalaria (web + móvil) con **API REST en Node.js**, frontend en
 
 ---
 
-## 📈 Estadísticas de GitHub
-<!-- Reemplaza 'YOUR_GITHUB_USERNAME' por tu usuario real de GitHub -->
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Langs" />
-</div>
+
 
 ---
 
