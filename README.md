@@ -1,4 +1,5 @@
-# 👋 Hola, soy **Adrian Galan Bolado**
+[![Banner](./banner-github.svg)](https://www.binaryishuman.com/)
+
 
 **Data Engineer | Backend Developer | AI Enthusiast**
 
