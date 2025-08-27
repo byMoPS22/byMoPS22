@@ -104,6 +104,70 @@ Transformo procesos manuales en **flujos automáticos** que reducen costes y ace
 - 📈 **Métricas que deciden**: KPIs y **dashboards en Power BI** con alertas para mover la operación, no solo verla.
 
 
+
+
+
+
+
+
+
+## 📈 Stats y actividad
+
+<div align="center">
+
+  <!-- 🔥 Racha -->
+  <img
+    src="https://streak-stats.demolab.com?user=byMoPS22&theme=radical&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D"
+    alt="GitHub Streak"
+    height="160"
+  />
+
+  <!-- 📊 Stats & 🌐 Lenguajes (en dos columnas) -->
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=byMoPS22&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=8"
+          alt="GitHub Stats"
+          height="170"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=byMoPS22&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=Jupyter%20Notebook,html,css&border_radius=8"
+          alt="Top Languages"
+          height="170"
+        />
+      </td>
+    </tr>
+  </table>
+
+  <!-- 🗺️ Gráfico de actividad -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=byMoPS22&theme=react-dark&hide_border=true&radius=8&area=true"
+    alt="Activity Graph"
+    width="100%"
+  />
+
+  <!-- 🏆 Trofeos (opcional) -->
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=byMoPS22&theme=onedark&no-frame=true&column=6"
+    alt="Trophies"
+  />
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 
