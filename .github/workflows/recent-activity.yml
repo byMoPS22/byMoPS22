@@ -1,0 +1,17 @@
+name: Recent Activity
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # cada 6 horas (UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write           # ← necesario para que pueda actualizar el README
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Readme-Workflows/recent-activity@v2
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
