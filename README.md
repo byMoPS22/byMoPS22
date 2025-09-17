@@ -163,37 +163,6 @@ Transformo procesos manuales en **flujos automáticos** que reducen costes y ace
 
 
 
-
-
-
-
-
----
-
-
-## 📈 Stats y actividad
-
-<!-- 🔥 Racha de contribuciones -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=byMoPS22&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" />
-</p>
-
-<!-- 📊 Stats + Lenguajes -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=byMoPS22&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byMoPS22&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<!-- 🗺️ Gráfico de actividad -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=byMoPS22&theme=github-dark&hide_border=true&area=true" />
-</p>
-
-<!-- 🏆 Trofeos (opcional) -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=byMoPS22&theme=onedark&no-frame=true&row=1&column=8" />
-</p>
-
 ## ⚡ Actividad reciente
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
